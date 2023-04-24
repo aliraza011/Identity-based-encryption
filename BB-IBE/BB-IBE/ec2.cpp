@@ -1,7 +1,7 @@
 /*
  *    MIRACL  C++  functions ec2.cpp
  *
- *    AUTHOR  :    Kashif Inayat (Modified Version)
+ *    AUTHOR  :   Ali Raza
  *             
  *    PURPOSE :    Implementation of class EC2 functions 
  *    NOTE    :    Must be used in conjunction with big.h and big.cpp
